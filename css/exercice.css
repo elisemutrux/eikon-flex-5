@@ -25,6 +25,12 @@
 }
 
 /* 6. exercice-all-in-1 */
+.exercice-all-in-1 .container-set{
+  flex-flow:column-reverse wrap-reverse;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
 
 /* 7. exercice-all-in-2 */
 .exercice-all-in-2 .container-small{
@@ -33,6 +39,6 @@
   align-content:center;
 }
 
-.element-pink{
+.element-pink .container-small{
   order:1;
 }
