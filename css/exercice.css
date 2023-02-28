@@ -9,6 +9,10 @@
 /* 2. exercice-baseline-2 */
 
 /* 3. exercice-baseline-3 */
+.exercice-baseline-3 .container-small{
+  align-items:center;
+  justify-content: center;
+}
 
 /* 4. exercice-flow-1 */
 
