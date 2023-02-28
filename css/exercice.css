@@ -20,6 +20,9 @@
 }
 
 /* 5. exercice-flow-2 */
+.exercice-flow-2 .container-small{
+  flex-flow: row wrap;
+}
 
 /* 6. exercice-all-in-1 */
 
