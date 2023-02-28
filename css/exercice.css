@@ -15,6 +15,9 @@
 }
 
 /* 4. exercice-flow-1 */
+.exercice-flow-1 .container-set{
+  flex-wrap:wrap;
+}
 
 /* 5. exercice-flow-2 */
 
