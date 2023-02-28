@@ -7,6 +7,15 @@
   align-items: baseline;
 }
 /* 2. exercice-baseline-2 */
+.exercice-baseline-2 .container-small{
+  align-items: baseline;
+  flex-flow: row-reverse wrap-reverse;
+}
+
+.exercice-baseline-2 .element{
+  width:50%;
+  box-sizing:border-box;
+}
 
 /* 3. exercice-baseline-3 */
 .exercice-baseline-3 .container-small{
